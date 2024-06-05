@@ -1,4 +1,5 @@
 **UAS PENGKODEAN** 
+
 Berikut adalah interpretasi visualisasi scatter plot antara usia (Age) dan gaji (Salary):
 
 Hubungan Umum antara Usia dan Gaji:
@@ -65,6 +66,7 @@ Hitung rata-rata gaji berdasarkan gender.
 Tampilkan gender dengan rata-rata gaji tertinggi.
 ![image](https://github.com/RoobinCristopher/TUGASUAS-ROOBINCRISTOPHER-AKUNTANSI-052/blob/main/Figure_1.png)
 **PENJELASAN**
+
 Berdasarkan histogram distribusi gaji yang Anda tampilkan, berikut adalah interpretasi visualisasi tersebut:
 Distribusi Gaji:
 Histogram menampilkan frekuensi jumlah karyawan pada rentang gaji tertentu.
