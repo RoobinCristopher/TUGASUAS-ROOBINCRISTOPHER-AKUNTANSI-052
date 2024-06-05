@@ -1,0 +1,11 @@
+id,name,age,gender,salary,department,rating
+1,John Doe,28,Male,50000,Sales,4.5
+2,Jane Smith,34,Female,60000,Engineering,4.7
+3,Emily Davis,45,Female,55000,Marketing,3.9
+4,Michael Brown,23,Male,45000,Sales,4.2
+5,Jessica Wilson,38,Female,65000,Engineering,4.9
+6,David Johnson,50,Male,70000,Marketing,3.5
+7,Linda Taylor,29,Female,48000,Sales,4.0
+8,James White,41,Male,72000,Engineering,3.8
+9,Patricia Harris,30,Female,52000,Marketing,4.1
+10,Robert Clark,39,Male,68000,Sales,4.4
